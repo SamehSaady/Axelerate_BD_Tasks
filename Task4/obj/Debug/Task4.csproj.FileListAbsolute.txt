@@ -1,0 +1,9 @@
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\Task4\bin\Debug\Task4.dll
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\Task4\bin\Debug\Task4.pdb
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\Task4\obj\Debug\Task4.dll
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\Task4\obj\Debug\Task4.pdb
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\Task4\bin\Debug\RvtLib.dll
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\Task4\bin\Debug\RvtLib.pdb
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\Task4\obj\Debug\Task4.csproj.CopyComplete

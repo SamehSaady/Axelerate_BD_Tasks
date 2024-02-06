@@ -1,0 +1,6 @@
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\RvtLib\bin\Debug\RvtLib.dll
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\RvtLib\bin\Debug\RvtLib.pdb
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\RvtLib\obj\Debug\RvtLib.csproj.AssemblyReference.cache
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\RvtLib\obj\Debug\RvtLib.csproj.CoreCompileInputs.cache
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\RvtLib\obj\Debug\RvtLib.dll
+E:\WIP\Axelerate BD Tasks\SC\Axelerate_BD_Tasks\RvtLib\obj\Debug\RvtLib.pdb
